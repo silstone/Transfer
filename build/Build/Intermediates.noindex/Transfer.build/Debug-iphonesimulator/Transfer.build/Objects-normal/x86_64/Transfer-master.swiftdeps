@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "48a4ba537e3d48197110417c9cd90afd"
+build_time: [1546252537, 881180000]
+inputs:
+  "/Users/silstone/Desktop/Transfer/Transfer/ViewController.swift": [1546252472, 0]
+  "/Users/silstone/Desktop/Transfer/Transfer/AppDelegate.swift": [1546251999, 0]
