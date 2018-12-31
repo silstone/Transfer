@@ -1,5 +1,5 @@
 version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
-options: "bd14e63cb6145e2a52a6ffb68445e61a"
-build_time: [1546252739, 557991000]
+options: "829c63a216cd460d9c20af36effeeffd"
+build_time: [1546256646, 700885000]
 inputs:
   "/Users/silstone/Desktop/Transfer/TransferTests/TransferTests.swift": [1546252739, 0]

@@ -3,10 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>application-identifier</key>
-	<string>2362MBJGPS.com.silstone.Transfer</string>
+	<string>ZG4AUSCT9T.com.silstone.translife</string>
 	<key>keychain-access-groups</key>
 	<array>
-		<string>2362MBJGPS.com.silstone.Transfer</string>
+		<string>ZG4AUSCT9T.com.silstone.translife</string>
 	</array>
 </dict>
 </plist>
