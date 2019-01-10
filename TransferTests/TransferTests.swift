@@ -23,7 +23,7 @@ class TransferTests: XCTestCase {
     func testExampleUpdate() {
         // This is an example of a functional test case.
         myController.updateStr()
-        XCTAssertEqual(myController.mainstr, "transfer1")
+        XCTAssertEqual(myController.mainstr, "transfer")
     }
 
     func testPerformanceExample() {
