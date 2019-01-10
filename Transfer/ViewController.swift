@@ -20,7 +20,7 @@ class ViewController: UIViewController {
     
     func updateStr()
     {
-        mainstr = "transfer"
+        mainstr1 = "transfer"
     }
 
 
